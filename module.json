@@ -1,0 +1,16 @@
+{
+  "name": "seggerrtt",
+  "version": "0.0.0",
+  "description": "Segger RTT debug",
+  "keywords": [
+    "segger",
+    "rtt"
+  ],
+  "author": "Segger",
+  "repository": {
+    "url": "git@github.com:jacobrosenthal/mbed-seggerrtt.git",
+    "type": "git"
+  },
+  "license": "Segger",
+  "dependencies": {}
+}
